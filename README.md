@@ -63,7 +63,7 @@ In this section, statistical modeling is performed by:
 - **Model Performance**: The benchmark classifier achieved 54% accuracy but had low recall (34%). Random Forest outperformed other complex models after hyperparameter tuning.
 
 - **Feature Importance**: Income-related features were consistently important across classifiers, informing feature selection for better model performance.
-- 
+  
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
